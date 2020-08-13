@@ -7,7 +7,6 @@ public class Paralelo {
     public Materia materia;
     public Profesor profesor;
     public ArrayList<Estudiante> estudiantes;
-    public Ayudante ayudante;
 
     public int getNumero() {
         return numero;
